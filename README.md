@@ -4,4 +4,4 @@
 
 - evaluated the capabilities of the method with conventionally used features to understand the benefits of the technique.
 
--Feature extraction using image processing techniques(Autoencoder, Gaussian mixture modelling)
+- Feature extraction using image processing techniques(Autoencoder, Gaussian mixture modelling)
